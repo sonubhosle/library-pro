@@ -119,3 +119,5 @@ The installer will be generated in the `dist-electron` folder.
 ## 📄 License
 
 This project is licensed under the MIT License. Built with ❤️ for Modern Libraries.
+
+Software
