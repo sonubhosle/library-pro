@@ -1,6 +1,26 @@
+# Dependencies
 node_modules/
-dist-electron/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
 dist/
-logs/
+build/
 *.exe
 *.asar
+
+# Logs
+npm-debug.log
+yarn-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Other generated files
+.DS_Store
+
+# Testing
+coverage/
